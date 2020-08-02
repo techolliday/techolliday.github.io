@@ -1,6 +1,6 @@
 ## Techolliday
 
-“Feel free to bookmark this to keep an eye on my project updates”
+Check the links on this page for my various pages and ways to contact me
 
 You can use the [editor on GitHub](https://github.com/techolliday/techolliday.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
