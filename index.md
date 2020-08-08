@@ -1,6 +1,6 @@
 ## Techolliday
 
-Check the links on this page for my various pages and ways to contact me.
+Check the links on this page for the various ways to reach out to me.
 
 You can use the [editor on GitHub](https://github.com/techolliday/techolliday.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
